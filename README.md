@@ -6,6 +6,8 @@ SKILLS -
 Languages: HTML5,CSS3,JavaScript,TypeScript,Python
 
 Databases:SQL(MYSQL),PgSQL(PostgreSQL)
+
 Libraries/Frameworks: Angular.JS, Bootstrap,React.Js
+
 Tools: Git, Figma, Netlify
 
