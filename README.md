@@ -4,6 +4,7 @@ I'm Aathif Taha. I graduated with a Master's in Computer Application(MCA)from Cr
 
 SKILLS - 
 Languages: HTML5,CSS3,JavaScript,TypeScript,Python
+
 Databases:SQL(MYSQL),PgSQL(PostgreSQL)
 Libraries/Frameworks: Angular.JS, Bootstrap,React.Js
 Tools: Git, Figma, Netlify
