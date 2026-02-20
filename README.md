@@ -1,14 +1,23 @@
-                                                                  Hi there 👋, I'm Aathif Taha
-                                                                  A passionate Frontend Developer
-I'm Aathif Taha. I graduated with a Master's in Computer Application(MCA)from Crescent Institute of Science and Technology in 2024, achieving a CGPA of 8.6. I am a Software Developer with 1 Year of experience on Front-end Technologies using JavaScript libraries. Developed and designed responsive web pages by adding extra features, components, worked in a team-oriented environment on existing web pages, and restructured User Interfaces(UI) based on requirements by fetching users' data from endpoint APIs.
+👋 Hi, I'm Aathif Taha
+Full Stack Developer | React • Node.js • Cloud Enthusiast
 
-SKILLS - 
+I’m a Full Stack Developer with 2 years of experience building scalable and user-focused web applications. I hold a Master’s in Computer Applications (MCA) from Crescent Institute of Science and Technology (2024) with a CGPA of 8.6.
 
-Languages: HTML5,CSS3,JavaScript,TypeScript
+I specialize in developing modern web applications using React, JavaScript, and backend technologies, focusing on clean architecture, performance optimization, and seamless API integration. I have hands-on experience designing responsive user interfaces, building reusable components, integrating RESTful APIs, and collaborating in team-based development environments.
 
-Databases:SQL(MYSQL),PgSQL(PostgreSQL)
+🚀 Technical Skills
+💻 Languages
 
-Libraries/Frameworks:Bootstrap,React.Js
+HTML5, CSS3, JavaScript, TypeScript
 
-Tools: Git, Figma, Netlify
+⚛ Frontend
 
+React.js, Bootstrap
+
+🗄 Databases
+
+MySQL, PostgreSQL
+
+🛠 Tools & Platforms
+
+Git, Figma, Netlify
