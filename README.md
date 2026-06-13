@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://myblogq.netlify.app/">
-      <img src="https://img.shields.io/badge/Blog?style=for-the-badge&logo=twitter&logoColor=white" alt="Blog Badge"/>
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
     </a>
   </div>
 </div>
