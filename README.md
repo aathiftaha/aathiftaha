@@ -26,7 +26,7 @@ Hi, I'm Aathif Taha, a Full-Stack Engineer with 2+ years of experience building 
 - Performance Optimization and Reusable Component Architecture
 - CI/CD, Docker, GitHub Actions, and Agile Development
 
-🚀 I have worked on enterprise applications such as Vendor Central and FUZE, where I developed scalable features, optimized application performance, integrated APIs, and contributed to production-ready solutions.
+🚀 I have worked on enterprise applications such as Vendor Central and FUZE for Verizon, where I developed scalable features, optimized application performance, integrated APIs, and contributed to production-ready solutions.
 
 🔭 Currently focused on:
 - Advanced React Patterns
